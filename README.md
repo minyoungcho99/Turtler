@@ -1,7 +1,7 @@
 # Turtler :turtle:
 Take the first step with Turtle and explore the world! This is an Android mobile game inspired by Frogger, utilizing Java to program interactive features and functions.
 
-## Team Information :turtle:
+### Team Information :turtle:
 | Name         | Email                 | School                           |
 | --------------| -------------------- |----------------------------------|
 | Minyoung Cho  | mcho305@gatech.edu   | Georgia Institute of Technology  |
@@ -10,14 +10,14 @@ Take the first step with Turtle and explore the world! This is an Android mobile
 | Wonho Lim     | wlim49@gatech.edu    | Georgia Institute of Technology  |
 | Elijah Nicpon | enicpon3@gatech.edu  | Georgia Institute of Technology  |
 
-## Programming Languages :turtle:
+### Programming Languages :turtle:
 * Java
 * XML
 
-## Directories :turtle:
+### Directories :turtle:
 * .idea
 * app
 * gradle
 
-## Design Class Diagram :turtle:
+### Design Class Diagram :turtle:
 ![DesignClassDiagram](https://github.gatech.edu/storage/user/70118/files/4a47c66e-d23d-4a84-bc3d-590b3c3b3057)
