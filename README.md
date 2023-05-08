@@ -1,5 +1,5 @@
 # Turtler :turtle:
-Take the first step with Turtle and explore the world!
+Take the first step with Turtle and explore the world! This is an Android mobile game inspired by Frogger, utilizing Java to program interactive features and functions.
 
 ## Team Information :turtle:
 | Name         | Email                 | School                           |
