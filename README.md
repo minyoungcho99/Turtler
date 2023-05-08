@@ -1,6 +1,15 @@
 # Turtler :turtle:
 Take the first step with Turtle and explore the world!
 
+## Team Information :turtle:
+| Name         | Email                 | School                           |
+| --------------| -------------------- |----------------------------------|
+| Minyoung Cho  | mcho305@gatech.edu   | Georgia Institute of Technology  |
+| Chris Cheung  | ccheung49@gatech.edu | Georgia Institute of Technology  |
+| JinYoung Kim  | jkim3670@gatech.edu  | Georgia Institute of Technology  |
+| Wonho Lim     | wlim49@gatech.edu    | Georgia Institute of Technology  |
+| Elijah Nicpon | enicpon3@gatech.edu  | Georgia Institute of Technology  |
+
 ## Programming Languages :turtle:
 * Java
 * XML
